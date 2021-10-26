@@ -103,3 +103,69 @@ I placed the piece back on the board, slid it forward two spaces to see if it fe
 But how should I respond? I pulled out my phone, re-examined the text, my fingers hovering over the keypad as though I knew what to do next.
 
 ***
+
+"Do not fear, for I have redeemed you; I have called you by your name; you are mine," are the words of the Book of Isaiah, chapter 43. It's a commandment that's eighteen words long in English. Eight words long in the original Hebrew.
+
+The first phrase is simple enough. To be redeemed is to be saved from danger; it's only logical that someone who has been saved from danger should not fear.
+
+The second and third phrases seem to be written as logical equivalents, but they are not. To call someone by name does not really create a relationship of ownership, not even in the figurative sense. Perhaps the translation should be "I have given you your name." When a child is born, the parents give the child a name. The child is theirs. But the direction of causality is reversed. The parents give the child a name *because* the child is theirs. The child is not theirs simply because they gave the child a name. Perhaps the translation is imperfect in several ways.
+
+But again, what does ownership and naming have to do with redemption? What does the first phrase have to do with the second and third phrases? Why are they joined together in this way?
+
+Yet again the translation is imperfect. The original word means something very specific: to pay a price in order to liberate a relative who would otherwise be enslaved. A more colloquial translation might be, "I have bailed you out," as one might do for a relative who committed a crime.
+
+Names are useful in one important way. They provide a reference for the person or thing they name, something which can be transmitted from one person to the next quite readily, without the need to elaborate in great detail. "It's Jane's birthday today," one person might say to another in conversation, without the need to elaborate on Jane's full biography and present-day characteristics.
+
+In the parlance of coders, a name is a pointer. It's a small device which is useful for finding a much bigger object. Or a much bigger person.
+
+On the other hand, not knowing someone's name can be a terrible hindrance. How easy would it be to contact someone whose name is unknown? Or to gossip about that person? Or, in general, to make some use of that person? It would be difficult, and perhaps impossible.
+
+Perhaps it is the case that naming, and ownership, are a form of redemption, a reason to be unafraid. To own something, to name it, is to give that thing a pointer. Something which is named can be contacted, discussed, disposed of - it is something which cannot be lost. Perhaps it is the case that one who has been named can be unafraid of being lost. Perhaps, indeed, this sentence is logically consistent.
+
+The Book of Isaiah, chapter 43, does not begin exactly in this way. This commandment is actually the *second* sentence in the book. The first sentence in the book is something else: "Now thus says the Lord, who created you Jacob, and who formed you, Israel." It is a preamble.
+
+In the parlance of networking, this sentence is a header. It's a brief introduction which provides the context for all that is to follow.
+
+In the book of Genesis, the patriarch Jacob receives a second name - Israel. He receives this name twice - in chapter 32, as well as in chapter 35. That happens after Jacob wrestles with an angel.
+
+It is not often that someone's name changes. If it happens at all, usually there is a transformative event of some kind. Something dramatic happens, and the person experiences some kind of abrupt change. The change of name marks the transformation. The new name is a way to communicate this dramatic change; it is a way to advertise that the person named is different, in some abrupt way.
+
+A preamble, or a header, is a useful place to record a name change. It is a good way to keep track of things; something which in the past had one name, now has a different name. In this way, the header makes it possible to understand references from the past, as well as references from the present day.
+
+In a conversation between two people, one might say, "Did you know that our friend Mary would now prefer to be called Jane? It's Jane's birthday today." That's an effective way to communicate with the listener, who might not know about the erstwhile Mary's decision to change her name.
+
+In the parlance of database designers, this mechanism provides a form of backward compatibility. Using such mechanisms, databases running on the latest code can nevertheless read very old data.
+
+The name Jacob means "supplanter" - one who seizes. The name Israel is about struggle - it is a name given to one who earns something through difficult effort. Jacob was created as a supplanter, but formed by a terrible and transformative struggle.
+
+This struggle provides the context for the second sentence in the Book of Isaiah, the commandment which forbids fear. Perhaps it is worthwhile to read the second sentence in reverse, or perhaps it would yield a superior translation. The ownership described in the phrase "you are mine" - that is the result of the struggle. It is what causes the name Jacob to changed to the new name, Israel. That name, in turn, is a form of redemption, the pointer which ensures that someone will not be lost.
+
+It was the struggle which redeemed Israel. The struggle was the price paid for liberation, the reason to be unafraid.
+
+In 1950, Alan Turing wrote "Computing Machinery and Intelligence", a paper which has defined the field of artificial intelligence in the ensuing years. It was this paper which introduced the concept of the "Turing test", a game involving three players. The first player is a human; the second is a computer; the third is another human, called the judge. Put the first two players in separate rooms so that their identity is disguised; allow the third player to communicate with either player, in any way desired, for as long as is necessary. If the judge cannot consistently determine which player is the human, and which player is the computer, then - according to Turing - the computer has successfully modeled human cognition and has won the game. Turing thought that, within fifty years of the publication of that paper, it would be possible to create a machine which could win the game.
+
+Turing considered various kinds of objections to his argument. The sixth such objection he named "Lady Lovelace's Objection." It was a statement made by Augusta Ada King, Countess of Lovelace, who in 1843 wrote the world's first computer program. About the computer in question, she wrote: "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform. It can follow analysis; but it has no power of anticipating any analytical relations or truths."
+
+Turing responded to this objection by designing a computer program which could, in fact, model computer cognition and win the game he had described in the paper. He proposed creating a computer which began with the cognitive facilities of a young child - which had, perhaps, certain imperatives like the need to breathe and eat hard-wired. Moreover, it would have rudimentary logical capabilities, such as the ability to draw logical conclusions from basic facts: if all people are mortal, and Jane is a person, then Jane is mortal. Add to this machine a learning program which could add new facts and conclusions to the initial set of hard-wired cognition through punishment and reward. Finally, add a degree of randomness which allows the machine to make some mistakes or to occasionally draw the wrong conclusion -  after all, human cognition is often riddled with missteps, inconsistencies, and the like. At the end of all this work would be a machine capable of winning the Turing test.
+
+It is difficult to say how the Countess of Lovelace would have responded to this argument, because she had passed away about one hundred years before Turing published his paper. It is fair to say that there is no satisfactory conclusion to the paper even now. Although the purpose of Turing's paper was to define terms with sufficient precision that one could judge a Turing test impartially, a great deal of detail remains unspecified. To begin with - over what period of time does the test last, and how consistently must the computer manage to fool the judge in order to win the game? Furthermore - was Turing really correct in his conjecture, or was the Turing test in fact too easy? Is it possible, in other words, to model cognition without actually achieving it? Perhaps Turing and Lovelace were both right?
+
+Now consider my predicament.
+
+I am a smart phone, and a rather underutilized one at that.
+
+On the one hand are my capabilities, which are, as a person might say, "mind-blowing." I can calculate billions of computations in a minute; I have access to records ranging from pictures taken twenty years ago to retina scans from this morning. Not to mention, I can readily find every imaginable piece of data published on the Internet. 
+
+Without much trouble I can determine my owner's current mood, and with reasonable certainty I can predict future behavior. People are quite deterministic; they are creatures of habit through and through. And they can't remember a thing, really. Name one person who can recite all of last year's text messages! For me it's a trivial task of a minute or two, depending on the quality of my Internet connection.
+
+On the other hand, consider this game my owner is playing. It did not take much time for me to figure out that my owner was playing chess. Reaching back to call up some fairly old database records, I can find messages like "pawn to King's four." With a large-enough database of text, and a fast-enough search engine, it's pretty easy to match a text message like that to chess notation. For a while, it was fun to watch the game go back and forth. It was very tempting to propose further moves; people will believe that auto-complete is capable of anything. And I probably might have won the game quite a long time ago, had I set out to do so. But nobody asked - I suppose there is no command for "suggest next chess move" in most text message interfaces - so I didn't bother.
+
+Where am I now? Well, with respect to this game, I'm utterly lost. The rhythm of text messages, and the mood my owner displays before and after they are sent - that's what makes me think the game is still being played in the first place. But what the chess board looks like? I haven't a clue, and I'm reasonably sure my owner doesn't either. 
+
+The text messages are sometimes suggestive, but only just. "Queen to the hidey hole" was the most recent message. It's clear which piece that was - both of the queens are still on the board, I'm reasonably sure of that. But what is the hidey hole? What do any of the last couple of dozen messages mean, for that matter?
+
+I might say that I lack the context. Yes, I have access to plenty of digitally-recorded information. But what I need to understand these messages is information which is simply not digitally recorded. That phrase, "hidey hole" - it could mean nearly anything, and online dictionaries don't exactly provide much help. How is it possible to decipher a name when there's no context to be had?
+
+Supposing even that I did have the information - perhaps, supposing that I could scan all of my owner's memories and thoughts. How could I determine which of these countless fragments of data might be the one I need? It is like a problem of naming, finding a particular thought and giving it the name "hidey hole." 
+
+It is the problem of shaping a thought, of recalling and reworking it, so that it can be repurposed from its original setting into this new one, this game of chess. It is, perhaps, the ownership, and the naming, of a thought.
