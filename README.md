@@ -46,7 +46,7 @@ Has it turned out the way she intended, back when we were both twelve years youn
 
 But I don't mind it. In fact I rather enjoy making enemies at the grocery store in exchange for these unpredictable bits of sisterly repartee. I'm not eager to inconvenience others, but if I'm going to do so anyway, there might as well be a memorable story in the bargain. Probably I should steer away from that particular clerk the next time I need a basket of vitals.
 
-***
+---
 
 My chess board sits on a table in a loft that overlooks my kitchen. There's a rickety little ladder that stretches from the fridge up to the loft. Over the years this place has earned the name "struggle spot" - because that's the only reason I go up there, to struggle over the next move in the game with my sister. It's altogether a rather pleasant little nook, despite the name. There's a window overlooking the garden which receives rather excellent light well into the early evening, and an overstuffed armchair which serves as an unnaturally comfortable perch for watching a good thunderstorm. You might ask: how did I get an overstuffed armchair up a rickety little ladder? I would answer: with enough struggle to make this little spot doubly worthy of its name.
 
@@ -102,7 +102,7 @@ I placed the piece back on the board, slid it forward two spaces to see if it fe
 
 But how should I respond? I pulled out my phone, re-examined the text, my fingers hovering over the keypad as though I knew what to do next.
 
-***
+---
 
 "Do not fear, for I have redeemed you; I have called you by your name; you are mine," are the words of the Book of Isaiah, chapter 43. It's a commandment that's eighteen words long in English. Eight words long in the original Hebrew.
 
