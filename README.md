@@ -162,15 +162,15 @@ Reading and understanding some of these messages, never mind responding to them,
 
 ## 4.
 
-I thought I knew what I wanted to do: move a bishop so that it blocked the pawn. That was the most logical move, right? I tapped the text box to start writing, but then auto-complete kicked in: "Bishop to king's four," the suggested text read.
+I looked at the board again, determined to find an answer to my sister's last move. I knew what I wanted to do: move a bishop so that it blocked the pawn. That was the most logical move, right? I tapped the text box to start writing, but before I could type anything, a suggestion kicked in: "Bishop to king's 4," the suggested text read.
 
-That was pretty strange. I hadn't written a single letter. It was a little uncanny to see my phone making a suggestion before I had even started to write - let alone one that matched my own thoughts so well. It wasn't quite what I wanted to write - too straightforward, too plain - but it was close enough. Perhaps the update that had installed last night included a much better version of auto-complete.
+That was pretty strange. I hadn't written a single letter. It was a little uncanny to see my phone making a suggestion before I had even started to write - let alone one that matched my own thoughts so well. It wasn't quite what I wanted to write - too straightforward, too plain - but it was close enough. My phone's software had updated last night; perhaps the new software included a much better version of auto-complete.
 
 Strange. I pressed my finger to the surface of the screen, holding it there for some seconds. Something wasn't right here.
 
 My sister's most recent move was to slide the queen's pawn forward two spaces. It was a transparent and easily-blocked attempt at pawn promotion, a rather undramatic and uninteresting move. Meanwhile, there was plenty of drama elsewhere on the board - pieces to be captured, feints to draw the king into a vulnerable spot, and so forth. This move was entirely unlike her; she preferred cunning and intricate stratagems, nothing facile or straightforward.
 
-The smartphone interrupted my train of thought again: out of nowhere came the diagram of a chess board, overlaid on top of the text message conversation. Now that was something I'd never seen before! Auto-complete was getting quite a lot savvier. What's more, the game depicted on the chess board was more-or-less similar to the one my sister and I were playing. There were a few pieces missing, a couple that were in the wrong spaces, and so forth... but really it was not far off. How strange.
+The phone interrupted my train of thought again. Out of nowhere came the diagram of a chess board, overlaid on top of the text message conversation. Now that was something I'd never seen before - auto-complete was certainly getting quite a lot savvier! What's more, the game depicted on the chess board was more-or-less similar to the one my sister and I were playing. There were a few pieces missing, a couple that were in the wrong spaces, and so forth... but really it was not far off. How strange.
 
 Without thinking too much, I moved my thumb around, dragging pieces into place so that it matched the chess board on the table in front of me. I didn't even know that my phone had a chess app - the update last night must have been a doozy - but this one behaved quite smoothly. Impressive.
 
@@ -180,13 +180,11 @@ I held my thumb over the bishop and slid it back into its original place, undoin
 
 After a few seconds of waiting, a little button flashed on my phone's chess app: "Checkmate in four moves", read the caption. Now that was interesting. I pressed the button.
 
-My phone took over, animating pieces flying across the board left and right. If, instead of blocking my sister's pawn, I were to advance both of my knights by zig-zagging them across the board, and if I positioned my queen in a forgotten little nook of the board - then I could win the game in four moves. What's more, if I were to do so as her pawn advanced, then I would win the game by sacrificing my queen just as she gained a second one.
+My phone took over, animating pieces flying across the board left and right, uncovering a most wonderful end-game. If, instead of blocking my sister's pawn, I were to advance my knight by zig-zagging across the board, and if I positioned my queen in a forgotten little nook of the board - then I could win the game in four moves. What's more, if I were to do so as her pawn advanced, then I would win the game by sacrificing my queen just as my sister gained a second one.
 
-Finally, here was a game worthy of my sister! The movement of the pieces had a kind of beauty to it, as though it were an elegantly choreographed piece of dance. The fact that she would gain a second queen just as I lost one - and that in doing so, I'd win the game - made it that much more poetic, a Pyrrhic victory for her pawn. While her moves would be plodding, almost naïve, mine would be bold, unintuitive, remarkable.
+Finally, here was a game worthy of my sister! The movement of the pieces had a kind of beauty to it, as though it were an elegantly choreographed piece of dance. The fact that my sister would gain a second queen just as I lost one - and that in doing so, I'd win the game - made it that much more poetic, a Pyrrhic victory for her pawn. While her moves would be plodding, almost naïve, mine would be bold, unintuitive, remarkable.
 
-It would be a stunning role reversal. Since we were children she had bested me, in every way imaginable: certainly in chess, but also in school, and in sports; even her drawings were nicer than mine. All these years later, she has kept it up, with one string of fascinating accomplishments after another.
-
-Not that I begrudged her all of that success. Nor did she make too much of it. What would be the use of that? She was simply gifted, in a thousand different ways, and there was really no point in making a fuss about it. It was fun to watch, really: like a movie with a hundred different plot twists, each one more unexpected than the one before.
+It would be a stunning role reversal: remarkable chess play was decidedly more her hallmark than mine.
 
 But now that I had seen this scenario play out on my phone's chess app, I knew that it must be what my sister intended. These final moves would be a piece of art, an experience we could both savor for quite a while yet. My queen would become a gift to her pawn, and the victory in the game would be her gift to me. It would be a graceful act of symmetry.
 
@@ -194,7 +192,7 @@ There was something else, too, I thought, a hidden message in this final sequenc
 
 "Presence," my sister had said, "is the whole point of the show." That was during our preparations for Hansel and Gretel, while we were patching together a set made of cardboard boxes and green tissue paper for the trees. The dialog, the costumes, the plot - what was the point of all of it? To commune with the audience. To be known, acknowledged, seen: to be present.
 
-The story itself was reversed in the production, I could see that now. The drama of Hansel and Gretel was drawn out of the disappearance of children, in sending them off to the oblivion of the dark woods. I thought briefly of the actual events which must have inspired the fairy tale, so long ago, and shivered briefly. It was that final scene, in which Gretel sacrifices the witch - to save her brother, to become a hero in her own right - that was the piece of the story which produced catharsis. In sending the witch into the flames and recovering Hansel, there was a symmetry - an exchange of evil for innocence, a reversal of disappearance. It was the creation of presence, something that we did together. All those years ago, we whiled away a lazy afternoon with a child's project. Now, far into our adulthood, my sister wanted to revive it.
+The story of the play was reversed in its own production, I could see that now. The drama of Hansel and Gretel was drawn out of the disappearance of children, in sending them off to the oblivion of the dark woods. I thought briefly of the actual events which must have inspired the fairy tale, so long ago, and shivered briefly. It was that final scene, in which Gretel sacrifices the witch - to save her brother, to become a hero in her own right - that was the piece of the story which produced catharsis. In sending the witch into the flames and recovering Hansel, there was a symmetry - an exchange of evil for innocence, a reversal of disappearance. It was the creation of presence, something that we did together. All those years ago, we whiled away a lazy afternoon with a child's project. Now, far into our adulthood, my sister wanted to revive it.
 
 It was not just the game that was drawing to an end, but the long absence between us. In checkmate, we could be present, together.
 
