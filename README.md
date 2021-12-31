@@ -22,7 +22,7 @@ It only took a dozen or so attempts with the wonky scanner, and a bit more forbe
 
 The game had started without a great deal of ceremony. The first text message was rather prosaic. "Pawn to king's 4," my sister wrote me, on an otherwise lazy Saturday afternoon when I was just starting to consider the problem of dinner.
 
-I wasn't quite sure what to think. It had been years since I had laid eyes on so much as a rook or a bishop. After puzzling over it for a moment I recognized the text as a bit of jargon, what my sister called "algebraic notation." It was the sort of thing that was really the province of experienced players more than novices such as myself. King's four - that was four rows in front of the king. Since my sister had moved first she was moving a white pawn. There was only one white pawn - the king's pawn - which could move into that particular spot, forward two spaces from its starting position. Actually it was a very pedestrian move, the kind of opening I would use back when I was a kid and my sister managed to cajole me into a game when I had nothing better to do.
+I wasn't quite sure what to think. It had been years since I had laid eyes on so much as a rook or a bishop. After puzzling over it for a moment I recognized the text as a bit of jargon, what my sister called "algebraic notation." It was the sort of thing that was really the province of experienced players more than novices such as myself. King's four - that was four rows in front of the king. Since my sister had moved first she was moving a white pawn. There was only one white pawn - the king's pawn - which could move into that particular spot, forward two spaces from its starting position. Actually it was a very pedestrian move, the kind of opening I would use back when I was a kid and my sister managed to cajole me into a game.
 
 Not that I had the slightest idea why my sister chose to send me a fairly humdrum opening at that particular uninteresting moment in time. Only that I was by now fairly accustomed to these conversational non-sequiturs, enough that I knew better to respond to her enigmatic message with a question mark or five.
 
@@ -42,11 +42,11 @@ Many of these pets have made their way into our game in one way or the other, ev
 
 These sort of inscrutable references or witty jokes - or better still, both at the same time - are pretty much the only way we talk about the game these days. Indeed, it's become the whole point of the enterprise, the way I see it. We've long since abandoned the pretense that the point of the game is to capture the other player's king. Instead, it's to impress the other player with a clever turn of phrase. Certainly, there is no reason the game should have gone on this long. My sister is a far better player than I - has been since before she was old enough to own a set - and she could have won hundreds of games against me in the time it's taken us to play this particularly meandering and never-ending game.
 
-It's her way of checking up on me, the way some people like to send each other links to news articles. We don't see each other much, so we play this game instead. There's something sweet, if perhaps a little condescending, in it. On the one hand she puts a lot of thought in the game, even though it's not a lot of words. On the other, I'm playing by her rules in every possible way, and that's always been a bit uncomfortable. 
+It's her way of checking up on me, the way some people like to send each other links to news articles. We don't see each other much - though I'm not quite sure why - so we play this game instead. There's something sweet, if perhaps a little condescending, in it. On the one hand she puts a lot of thought in the game, even though it's not a lot of words. On the other, I'm playing by her rules in every possible way, and that's always been a bit uncomfortable. 
 
 Has it turned out the way she intended, back when we were both so much younger, when she sent that first, fateful text? That much I couldn't say for certain. She is nothing if not cunning and annoyingly insightful, the kind of person who could tell you - and often does - how a movie's going to end before the opening credits have finished rolling. But then again, she takes her games very seriously, and it's not entirely like her to make light of them; still less so to let others do the same.
 
-I don't mind it. In fact I rather enjoy making enemies at the grocery store in exchange for these unpredictable bits of sisterly repartee. Not that I'm eager to inconvenience others. Only that, if I'm going to do so anyway, there might as well be a memorable story in the bargain. Probably I should steer away from that particular clerk the next time I need a basket of vitals, though.
+I don't mind it. In fact I rather enjoy making enemies at the grocery store in exchange for these unpredictable bits of sisterly repartee. Not that I'm eager to inconvenience others. Only that, if I'm going to do so anyway, there might as well be a memorable story in the bargain.
 
 ## 2.
 
@@ -88,7 +88,7 @@ I considered the game again. Certainly my sister wanted a piece to move to the m
 
 I walked around the board to consider it from what would be her position. Her king remained safely castled to the right; I had captured one rook and one bishop, leaving two of her knights and the remaining bishop to dominate the center of the board. The queen's pawn remained in its original spot, as though it had been forgotten at the beginning of the game.
 
-There was something interesting about that pawn; it was the only piece in its column. Left undisturbed, over the course of a long series of moves, it could march straight to the last row in my defensive ranks. If that happened, my sister would earn a second queen. It's a move called "pawn promotion." She would have to begin by moving the pawn two steps forward, toward the middle of the board. In other words, my sister wanted to bring a future queen to the "hidey hole" of center stage.
+There was something interesting about that pawn; it was the only piece in its column. Left undisturbed, over the course of a long series of moves, it could march straight to the last row in my defensive ranks. If that happened, my sister would earn a second queen. It's a move called "pawn promotion." She would have to begin by moving the pawn two steps forward, toward the middle of the board. In other words, my sister would bring a future queen to the "hidey hole" of center stage.
 
 Could that be what she wanted? I placed the tip of my finger on the pawn, then clutched it in my fist for a minute, feeling its weight. This chess set was another birthday gift from my sister. "Solid mahogany pieces, lined with felt to protect a board made of cherry," she had written in the card. "Tell me you don't love the way one of these pawns sits in the palm of your hand." She was right, the pieces each had a beautiful weight, a heft that felt solid, sometimes alive.
 
@@ -154,11 +154,11 @@ Reading and understanding some of these messages, never mind responding to them,
 
 ## 4.
 
-I looked at the board again, determined to find an answer to my sister's last move. I knew what I wanted to do: move a bishop so that it blocked the pawn. That was the most logical move, right? I tapped the text box to start writing, but before I could type anything, my phone kicked in: "Bishop to king's 4," the suggested text read.
+I looked at the board again, determined to find an answer to my sister's last move. I considered the most obvious next move: block the pawn with a bishop. That seemed like a reasonable response. I tapped the text box to start writing, but before I could type anything, my phone kicked in: "Bishop to king's 4," the suggested text read.
 
 That was pretty strange. I hadn't written a single letter. It was a little uncanny to see my phone making a suggestion before I had even started to write - let alone one that matched my own thoughts so well. It wasn't quite what I wanted to write; it was too straightforward, too plain. But it was close enough. My phone's software had updated last night. Perhaps the new software included a much better version of auto-complete.
 
-Strange. I pressed my finger to the surface of the screen, holding it there for some seconds. Something wasn't right about this idea.
+I pressed my finger to the surface of the screen, holding it there for some seconds. Something wasn't right about this idea.
 
 My sister's most recent move was to slide the queen's pawn forward two spaces. It was a transparent and easily-blocked attempt at pawn promotion, a rather undramatic and uninteresting move. Meanwhile, there was plenty of drama elsewhere on the board - pieces to be captured, feints to draw the king into a vulnerable spot, and so forth. This move was entirely unlike her; she preferred cunning and intricate stratagems, nothing facile or straightforward.
 
@@ -174,22 +174,20 @@ My phone took over, animating pieces flying across the board left and right, unc
 
 Finally, here was a game worthy of my sister! The movement of the pieces had a kind of beauty to it, as though it were an elegantly choreographed piece of dance. The fact that my sister would gain a second queen just as I lost one - and that in doing so, I'd win the game - made it that much more poetic, a Pyrrhic victory for her pawn. While her moves would be plodding, almost naïve, mine would be bold, unintuitive, remarkable. It would be a stunning role reversal: remarkable chess play was decidedly more her hallmark than mine.
 
-But I knew that it must be what my sister intended. These final moves would be a piece of art, an experience we could both savor for quite a while yet. My queen would become a gift to her pawn, and the victory in the game would be her gift to me. It would be a graceful act of symmetry.
+But I knew that it must be what my sister intended. These final moves would be a piece of art, an experience we could both savor for quite a while yet. My queen would become a gift to her, and the victory in the game would be her gift to me. It would be a graceful act of symmetry.
 
-There was something else, too, I thought, a hidden message in this final sequence of moves. Because after all, it had been some time since I had seen my sister. Too long, and who knows why? Was there some bad feeling there, or was it simply a matter of leading separate lives, having too much to do? I couldn't say, but it was impossible to ignore the fact that she was drawing the game to a close with such a dignified exchange of gifts. Normally, it was the sort of thing that could only be done in person, something that required presence.
+I knew what my next move would be, but I had one problem left. How should I write it?
 
-"Presence," my sister had said, "is the whole point of the show." That was during our preparations for Hansel and Gretel, while we were patching together a set made of cardboard boxes and green tissue paper for the trees. The dialog, the costumes, the plot - what was the point of all of it? To commune with the audience. To be known, acknowledged, seen: to be present.
+If my sister's pawn were to become a queen, then my queen would have to become something else.
 
-The story of the play was reversed in its own production, I could see that now. The drama of Hansel and Gretel was drawn out of the disappearance of children, in sending them off to the oblivion of the dark woods. It was that final scene, in which Gretel sacrifices the witch - to save her brother, to become a hero in her own right - that was the piece of the story which produced catharsis. In sending the witch into the flames and recovering Hansel, there was a symmetry - an exchange of evil for innocence, a reversal of disappearance. It was the creation of presence, something that we did together. All those years ago, we whiled away a lazy afternoon with a child's project. Now, far into our adulthood, my sister wanted to revive it.
+This game was to be a dramatic struggle, capped off by dramatic transformation. It was not entirely unlike the story we acted out many years ago. Gretel, the witch - they were two sides of the same coin, really. The one disappears into the flames, the other saves her brother. In the process, Gretel emerges from the woods, as though she had sacrificed the witch in order to transform into a heroic young girl.
 
-It was not just the game that was drawing to an end, but the long absence between us. In checkmate, we could be present, together.
+Gretel does more than emerge from the woods, in fact. She returns home.
 
-The next move was clear: I was to move my queen into her penultimate position, an abandoned spot deep in enemy territory. Over the next few moves my knight would fly across the board, trapping my sister's king. Finally, just as she promoted her pawn, my queen would swoop in for the final sacrifice. Checkmate in four moves.
+My sister's message was more than just a passing reference to a long-ago living room production of a children's tale. It was more, even, than an elegant and genius end-game to an absurdly long game of chess. It was an invitation.
 
-All of that was obvious. But how should I write it?
+Some people make plans to get together, to return home, to see one another. They align calendars, take vacation time, buy tickets. My sister, instead, plays chess.
 
-I put down my phone, leaned against the table, considered the board. There was my sister's pawn occupying the center position of the board, plodding towards promotion. There was my queen, ready to sacrifice herself. She would slide a few paces across the wooden chessboard, stoking the flames that would ultimately capture my sister's king.
-
-There, at last, was the message to send my sister, fully-formed in my head. A perfect beginning of the end. I picked up my phone.
+I cleared the chess app from my phone, deleted the auto-complete text, and sent off a message of my own choosing.
 
 "Witch to the fireplace. See you soon."
