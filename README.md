@@ -68,7 +68,7 @@ I woke up a couple of hours later, just about starving. It was only then that I 
 
 It's not much of an exaggeration to say that cooking is an art form whose goal is to turn a pile of odds and ends, gathered from about the kitchen, into something resembling nutrition. There are some well-known tricks to make that happen. For breakfast: take said odds and ends, mix them together with eggs and cheese, and presto - an omelet is born. For dinner: take the same odds and ends, add some herbs, boil them in broth, maybe add some sauce - your soup is ready. For a mild variation, ratchet down the broth and you have a curry, ready-made for accompaniment with a grain of your choosing. Who needs recipes? They're all just permutations of each other. Armed with this attitude, one can have some remarkably entertaining dinner parties.
 
-As it happens, I wasn't in the mood for soup, and upon first inspection I couldn't find any grain in the cupboards: not so much as a half-finished bag of rice. A second inspection, mildly-panicked and hunger-inducing, was no more profitable than the first. My eyes caught the pack of ginger snaps I had left on the counter, and for one very long beat I actually considered making them part of dinner. Curry over ginger snaps - how unappetizing could that possibly be?
+As it happens, I wasn't in the mood for soup, and upon first inspection I couldn't find any grain in the cupboards: not so much as a half-finished bag of rice. A second inspection, mildly-panicked and hunger-inducing, was no more profitable than the first. My eyes caught the pack of ginger snaps I had left on the counter, and for one very long beat I actually considered making them part of dinner. Curry over ginger snaps - how bad could that possibly be?
 
 I never found out, because just then I remembered that there was a full box of breakfast cereal on top of the fridge. Was I too proud to have cereal for dinner? I was not.
 
@@ -80,9 +80,9 @@ Afterwards, we celebrated our triumph over ice cream sundaes with sprinkles on t
 
 "Pretending to be evil is way more fun," my sister had said, licking a stray dab of chocolate sauce off her spoon. "You get to be a totally different person. That's what makes center stage the best hidey hole there is. The sideline is way more boring."
 
-If her message was a reference to that long-ago conversation - which it must have been - then the hidey hole could not been a safe little spot in the pawn's row, away from all the action. That was pretty obvious. But then, what could this mysterious hidey hole be?
+If her message was a reference to that long-ago conversation - which it must have been - then the hidey hole could not be a safe little spot in the pawn's row, away from all the action. That was pretty obvious. But then, what could this mysterious hidey hole be?
 
-I could feel myself getting drowsy, but I decided to ascend the ladder once more for another look at the board. Maybe, I figured, a little bit of focus would help me dream up a solution in my sleep.
+I could feel myself getting drowsy, but I decided to ascend the ladder once more for another look at the board. Maybe, I figured, a little bit of focus would help me dream up a solution in my sleep. I did not hear from my sister all that often; I might as well savor her message a little while longer.
 
 I considered the game again. Certainly my sister wanted a piece to move to the middle of the board - center stage, as she had put it years ago. The problem was, a move like that would be impossible for her queen. Several of her own pieces blocked the way, and I couldn't find any reasonable path for her queen to get there. Had she made a mistake? Or was I misreading her text message altogether?
 
